@@ -1,0 +1,6 @@
+{
+  "rewrites": [
+    { "source": "/readgio", "destination": "https://readgio.vercel.app/readgio" },
+    { "source": "/readgio/:path*", "destination": "https://readgio.vercel.app/readgio/:path*" }
+  ]
+}
