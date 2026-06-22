@@ -1,6 +1,8 @@
 {
   "rewrites": [
     { "source": "/readgio", "destination": "https://readgio.vercel.app/readgio" },
-    { "source": "/readgio/:path*", "destination": "https://readgio.vercel.app/readgio/:path*" }
+    { "source": "/readgio/:path*", "destination": "https://readgio.vercel.app/readgio/:path*" },
+    { "source": "/span", "destination": "https://spanapp.vercel.app/span" },
+    { "source": "/span/:path*", "destination": "https://spanapp.vercel.app/span/:path*" }
   ]
 }
