@@ -1,0 +1,14 @@
+# Anna Sadnova
+
+> Independent iOS developer and designer. I build small, focused, privacy-friendly apps for iPhone and iPad. This site (sadnova.com) is the home for my apps.
+
+## Apps
+
+- [Readgio — EPUB & PDF Reader](https://sadnova.com/readgio): A calm reader for EPUB and PDF books that automatically tracks your reading progress, speed, daily streaks and detailed statistics. PDFs are displayed like real books in the same immersive reader as EPUB. Import your own files, read offline, and sync across iPhone, iPad and Mac with iCloud. Free with an optional Pro upgrade. App Store: https://apps.apple.com/app/id6757845515
+- [Span (Did I?) — Task Tracker](https://sadnova.com/span): The simplest way to track recurring tasks and daily routines — watering plants, changing bed sheets, replacing filters — with a clear yes/no status and interactive Home Screen widgets. Customisable task names, icons and reset intervals, colour themes and app icons. Free with an optional purchase for unlimited tasks. App Store: https://apps.apple.com/app/id6749787788
+- [Dayvi — Mood & Day Journal](https://sadnova.com/dayvi): An effortless daily journal that tracks your mood through the day, health, sleep and weather (auto-filled from Apple Health and Weather), with notes, photos, clear statistics and pattern insights that show which events most affect your mood. Coming soon to the App Store.
+
+## Contact
+
+- Email: sadnova.au@gmail.com
+- Developer on the App Store: https://apps.apple.com/developer/anna-sadnova/id1832117340
