@@ -5,6 +5,8 @@
     { "source": "/span", "destination": "https://spanapp.vercel.app/span" },
     { "source": "/span/:path*", "destination": "https://spanapp.vercel.app/span/:path*" },
     { "source": "/dayvi", "destination": "https://dayvi.vercel.app/dayvi" },
-    { "source": "/dayvi/:path*", "destination": "https://dayvi.vercel.app/dayvi/:path*" }
+    { "source": "/dayvi/:path*", "destination": "https://dayvi.vercel.app/dayvi/:path*" },
+    { "source": "/foldfire", "destination": "https://foldfire.vercel.app/foldfire" },
+    { "source": "/foldfire/:path*", "destination": "https://foldfire.vercel.app/foldfire/:path*" }
   ]
 }
