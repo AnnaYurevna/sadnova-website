@@ -8,25 +8,5 @@
     { "source": "/dayvi/:path*", "destination": "https://dayvi.vercel.app/dayvi/:path*" },
     { "source": "/foldfire", "destination": "https://foldfire-website.vercel.app/foldfire" },
     { "source": "/foldfire/:path*", "destination": "https://foldfire-website.vercel.app/foldfire/:path*" }
-  ],
-  "headers": [
-    {
-      "source": "/foldfire",
-      "headers": [
-        {
-          "key": "X-Robots-Tag",
-          "value": "noindex, nofollow"
-        }
-      ]
-    },
-    {
-      "source": "/foldfire/:path*",
-      "headers": [
-        {
-          "key": "X-Robots-Tag",
-          "value": "noindex, nofollow"
-        }
-      ]
-    }
   ]
 }
