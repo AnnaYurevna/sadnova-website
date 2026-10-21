@@ -1,5 +1,9 @@
 {
   "rewrites": [
+    { "source": "/readgio/_vercel/insights/:path*", "destination": "https://readgio.vercel.app/_vercel/insights/:path*" },
+    { "source": "/span/_vercel/insights/:path*", "destination": "https://spanapp.vercel.app/_vercel/insights/:path*" },
+    { "source": "/dayvi/_vercel/insights/:path*", "destination": "https://dayvi.vercel.app/_vercel/insights/:path*" },
+    { "source": "/foldfire/_vercel/insights/:path*", "destination": "https://foldfire-website.vercel.app/_vercel/insights/:path*" },
     { "source": "/readgio", "destination": "https://readgio.vercel.app/readgio" },
     { "source": "/readgio/:path*", "destination": "https://readgio.vercel.app/readgio/:path*" },
     { "source": "/span", "destination": "https://spanapp.vercel.app/span" },
